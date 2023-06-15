@@ -35,6 +35,7 @@ Resources:
                 - "ce:DescribeCostCategoryDefinition"
                 - "ce:ListCostCategoryDefinitions"
                 - "ce:UpdateCostCategoryDefinition"
+                - "ce:TagResource"
                 Resource: "*"
 Outputs:
   ExecutionRoleArn:
